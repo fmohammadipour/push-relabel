@@ -27,7 +27,7 @@
 
 *Consider the following graph*
 
-<img src="/AdvancedAlgorithms/VI%20Graph%20Algorithms/26%20Maximum%20Flow/Push-Relabel/images/push-relabel.png">
+<img src="https://github.com/fmohammadipour/push-relabel/blob/master/images/push-relabel.png">
 
 *Maximum possible flow in the given graph is 23*
 
