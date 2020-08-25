@@ -32,7 +32,7 @@
 *Maximum possible flow in the given graph is 23*
 
 ```javascript
-var pushRelabel = require('graph-theory-push-relabel');
+var pushRelabel = require('push-relabel');
 
 var graph = [
 	[ 0, 16,  13, 0,  0,  0 ],
