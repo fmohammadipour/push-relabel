@@ -49,7 +49,7 @@ console.log("The maximum possible flow is " +
 
 ## Usage
 
-#### `require('graph-theory-push-relabel')( graph, source, sink )`
+#### `require('push-relabel')( graph, source, sink )`
 Compute the maximum flow in a flow network between source node `source` and sink node `sink`.
 
 **Arguments:**
@@ -61,7 +61,7 @@ Compute the maximum flow in a flow network between source node `source` and sink
 
 ## Installation
 
-	npm install graph-theory-push-relabel
+	npm install push-relabel
 
 ## License
 
